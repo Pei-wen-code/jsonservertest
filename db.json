@@ -15,5 +15,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "comments": [
+    {
+      "id": 1,
+      "content": "this is id 1's post"
+    },
+    {
+      "id": 2,
+      "content": "this is id 2's post"
+    }
+  ]
 }
